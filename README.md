@@ -1,2 +1,4 @@
 # TheDiceGame
-Simple Browser Dice Game
+Simple Dice Game
+
+Demo here: https://danaildimovv.github.io/TheDiceGame/
